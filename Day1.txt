@@ -1,3 +1,12 @@
 Questions: 
 
 1) Sum of Two numbers
+2) Learn Type conversion
+3) Accept and print the answer
+4) Swap two variables via 3 methods
+5)Questions Based on Operators
+
+- Arithmatics : + - * / %
+- Relational operator > < <=, >= , ==
+- Logical operator && ||
+- Unary operator - ++ , --
