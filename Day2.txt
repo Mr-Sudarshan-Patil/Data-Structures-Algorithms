@@ -1,0 +1,33 @@
+========================Day 2 ==================================
+
+1) Last Digit from number
+2) Remove Last Digit from number
+3) Relational operators use > < >= <= != == ===
+4) unary operator ++ --
+
+
+5) Math Functions
+-- Math.round() : this will round of the no e.g 10.4 chose the lower near number greter that 0.5 then chose higher e.g 10.5 then chose 11
+
+-- Math.floor() : always chose lower number any decimal point  10.1 to 10.9 it will print lower number
+-- Math.ceil() : always chose higher number nearest that decimal numbe e.g 10.1 to 10.9 it will print increase by 1 that number
+
+-- Math.trunc() : truncate means delete and it will delece any decimal point value e.g 19.20 => 19 delet(.20) , 20.3 => 20 delete(.3)
+
+-- Math.pow(): to calculate the power of the val 2 to the power of 3  : 8
+
+-- Math.sqrt(): to calculate squre root of the number
+
+-- Math.abs(): absoulute it will convert all negative value to positive
+
+-- Math.max(): find the max value and pass more than one parameter
+
+-- Math.min(): find the small value and pass more than one parameter;
+
+-- Math.random() : provide the random value between 0 to 1
+
+
+
+Math Problems:
+
+1) Calculate area and perimeter of rectangle
