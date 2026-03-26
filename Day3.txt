@@ -1,0 +1,20 @@
+Conditional statement
+if-else
+if - elseif - elese
+nested if else
+switch
+
+Question 1: valid voter : if user greater than 18 than eligible for voating
+
+
+question 2: Discount question
+0 to 5000       0% Discount 
+5001 to 7000    5% Discount 
+7001 to 9000    10% Discount
+more than 9000  20% Discount
+
+question 3: Light Bill Calculate
+0 to 100       Rs. 4.2 / Unit 
+101 to 200     Rs. 6 / Unit 
+201 to 400     Rs. 8 / Unit
+more than 400  Rs. 13 / Unit
