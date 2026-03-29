@@ -1,2 +1,8 @@
 =============== Loops ========================
-2) Sum of n numbers
+Print numbers from 1 to N
+Sum of first N numbers
+Factorial of a number
+Check if a number is prime
+Reverse a number
+Count digits in a number
+Check palindrome number
